@@ -3,7 +3,7 @@
 Final-year Computer Engineering student at UTAD, Portugal.
 I build **product-driven web apps** focused on automation and AI.
 
-Currently pursuing opportunities in Ireland 🇮🇪 — open to junior roles in software engineering.
+Open to junior software engineering opportunities abroad 🌍
 
 ---
 
